@@ -1,5 +1,5 @@
 
-# E Commerce Flutter App
+# Admin Dashboard with React
 
 Admin Panel using React JS.
 
